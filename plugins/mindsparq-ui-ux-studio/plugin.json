@@ -1,0 +1,13 @@
+{
+  "name": "mindsparq-ui-ux-studio",
+  "version": "2.0.0",
+  "description": "MindSparQ UI/UX Studio: Design Systems, Responsive Layouts, Accessibility, Flutter & Modern Web Excellence.",
+  "author": "MindSparQ Education & Technology",
+  "skills": [
+    "../../skills/07-ui-ux-engineering/SKILL.md",
+    "../../skills/08-frontend-engineering/SKILL.md"
+  ],
+  "agents": [
+    "../../agents/05-ui-ux-studio-engineer.md"
+  ]
+}

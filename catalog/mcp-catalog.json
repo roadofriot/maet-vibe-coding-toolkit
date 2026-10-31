@@ -1,0 +1,24 @@
+{
+  "servers": [
+    {
+      "id": "context7",
+      "name": "Context7 Official Docs MCP",
+      "auto_installed": true,
+      "config": {
+        "serverUrl": "https://mcp.context7.com/mcp",
+        "url": "https://mcp.context7.com/mcp"
+      }
+    },
+    {
+      "id": "playwright",
+      "name": "Playwright Browser QA MCP",
+      "auto_installed": true,
+      "config": {
+        "command": "npx",
+        "args": [
+          "@playwright/mcp@latest"
+        ]
+      }
+    }
+  ]
+}

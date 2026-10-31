@@ -1,0 +1,16 @@
+{
+  "name": "mindsparq-security-quality",
+  "version": "2.0.0",
+  "description": "MindSparQ Security, Performance & Production Readiness Gate.",
+  "author": "MindSparQ Education & Technology",
+  "skills": [
+    "../../skills/16-security-engineering/SKILL.md",
+    "../../skills/17-performance-engineering/SKILL.md",
+    "../../skills/19-documentation-engineering/SKILL.md",
+    "../../skills/20-production-readiness/SKILL.md",
+    "../../skills/21-advanced-engineering-pack/SKILL.md"
+  ],
+  "agents": [
+    "../../agents/04-security-engineer.md"
+  ]
+}

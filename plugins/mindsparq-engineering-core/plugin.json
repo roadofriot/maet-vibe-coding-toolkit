@@ -1,0 +1,28 @@
+{
+  "name": "mindsparq-engineering-core",
+  "version": "2.0.0",
+  "description": "MindSparQ Core Engineering Suite: Auto-Router, Project Audit, Architecture, Planning, Clean Code, Debugging & Testing.",
+  "author": "MindSparQ Education & Technology",
+  "skills": [
+    "../../skills/01-project-discovery/SKILL.md",
+    "../../skills/02-full-project-audit/SKILL.md",
+    "../../skills/03-software-architecture/SKILL.md",
+    "../../skills/04-prd-brd-generator/SKILL.md",
+    "../../skills/05-technical-planning/SKILL.md",
+    "../../skills/06-clean-code-engineering/SKILL.md",
+    "../../skills/09-backend-engineering/SKILL.md",
+    "../../skills/10-database-engineering/SKILL.md",
+    "../../skills/11-api-engineering/SKILL.md",
+    "../../skills/14-automated-testing/SKILL.md",
+    "../../skills/15-debugging-root-cause/SKILL.md",
+    "../../skills/18-code-refactoring/SKILL.md"
+  ],
+  "agents": [
+    "../../agents/01-principal-architect.md",
+    "../../agents/02-senior-software-engineer.md",
+    "../../agents/03-qa-verification-engineer.md"
+  ],
+  "rules": [
+    "../../core/GLOBAL-CONSTITUTION.md"
+  ]
+}
